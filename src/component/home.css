@@ -1,0 +1,35 @@
+.document{
+    width: 60%;
+    margin-left: 40%;
+display: block;
+margin-top: 40px;
+
+}
+.file{
+margin-top: 200px;
+   margin-left:40%;
+    width: 100%;
+    height: 90%;
+    display: block;
+    border: red 2px solid
+}
+.style{
+    margin-top: 50px;
+
+    /* width:fit-content; */
+    /* margin-left: 35%; */
+}.preview{
+    background-color: greenyellow;
+    width: 200px;
+    height: 50px;
+    border-radius: 10px;
+    
+}
+.container{
+    border: black solid 2px;
+    
+}
+.img{
+    width: 200px;
+    height: 200px;
+}
